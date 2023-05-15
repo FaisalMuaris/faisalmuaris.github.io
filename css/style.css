@@ -1,0 +1,21 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.jumbotron {
+  /* padding: 2rem 1rem; */
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
